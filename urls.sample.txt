@@ -1,0 +1,2 @@
+http://www.long.url.example.com/really.long.url
+http://www.another.long.url.example.com/an.even/longer/url
